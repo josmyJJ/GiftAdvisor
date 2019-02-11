@@ -4,15 +4,18 @@ A program that will prompt the user for the recipient's gender. You'll also ask 
 Now, write a program that will select the perfect gift based on the table below. Feel free to modify the gift list if you wish.
 
 ### Gift	Gender	Price
-Jewelry	Female	High
-Weekend Getaway	Female	High
-Selfie Stick	Female	Low
-Wine Bottle	Female	Low
-Perfume	Female	Medium
-Sweater	Female	Medium
-Smart TV	Male	High
-Apple Watch	Male	High
-Books	Male	Low
-Shoes	Male	Low
-Guitar	Male	Medium
-Playstation	Male	Medium
+| Gift                | Gender       | Price  |
+| -----------------   |:------------:| ------:|
+| Jewelry             | Female       | High   |
+| Weekend Getaway     | Female       | Low    |
+| Selfie Stick        | Female       | Low    |
+| Perfume             | Female       | Medium |
+| Sweater             | Female       | Medium |
+| Smart TV            | Male         | High   |
+| Apple Watch         | Male         | High   |   
+| Books               | Male         | Low    |
+| Shoes               | Male         | Low    |
+| Guitar              | Male         | Medium |
+| Playstation         | Male         | Medium |
+
+
